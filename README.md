@@ -1,4 +1,5 @@
 Credit-Wise Loan Approval Prediction
+
 1)Project Overview
 
 This project is an end-to-end Supervised Machine Learning solution that predicts whether a loan application should be Approved or Rejected based on customer financial and demographic information.
