@@ -8,7 +8,7 @@ Problem Statement
 
 Financial institutions receive thousands of loan applications. Evaluating each application manually is time-consuming and may lead to inconsistent decisions.
 As a result, bank faces two major challenges. 1) Good customer sometime get rejected, leading to loss of business.
-2)High-risk customers sometime get approved, leading to financial losses.
+2) High-risk customers sometime get approved, leading to financial losses.
 To solve this problem , bank wants to introduce an intelligent loan approval system powered by machine learning that can assist in predicting loan approval based on applicant details.
 
 Dataset
@@ -40,6 +40,7 @@ Matplotlib,
 Seaborn,
 Scikit-learn
 
+
 Project Workflow
  
 Data Loading,
@@ -55,16 +56,17 @@ Model Evaluation,
 Prediction
 
 
+
 Machine Learning Models
- 
+
 Logistic Regression,
 K-Nearest Neighbors (KNN),
 Gaussian Naive Bayes,
 
+
 Evaluation Metrics
 
 The models were evaluated using:
-
 Accuracy,
 Precision,
 Recall,
