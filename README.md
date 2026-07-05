@@ -11,56 +11,56 @@ This project aims to build a machine learning model that can assist in predictin
 
 Dataset
 The dataset contains applicant information such as:
-Age
-Income
-Credit Score
-Loan Amount
-Loan Term
-Savings
-Existing Loans
-Debt-to-Income (DTI) Ratio
-Collateral Value
-Employment Status
-Property Area
-Education
-Marital Status
+Age,
+Income,
+Credit Score,
+Loan Amount,
+Loan Term,
+Savings,
+Existing Loans,
+Debt-to-Income (DTI) Ratio,
+Collateral Value,
+Employment Status,
+Property Area,
+Education,
+Marital Status,
 Loan Status (Target Variable)
 
 
-🛠 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Technologies Used
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 Scikit-learn
 
-📊 Project Workflow
-Data Loading
-Data Cleaning
-Handling Missing Values
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Encoding Categorical Variables
-Feature Scaling
-Train-Test Split
-Model Training
-Model Evaluation
+ Project Workflow
+Data Loading,
+Data Cleaning,
+Handling Missing Values,
+Exploratory Data Analysis (EDA),
+Feature Engineering,
+Encoding Categorical Variables,
+Feature Scaling,
+Train-Test Split,
+Model Training,
+Model Evaluation,
 Prediction
 
 
-🤖 Machine Learning Models
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Gaussian Naive Bayes
-📈 Evaluation Metrics
+ Machine Learning Models
+Logistic Regression,
+K-Nearest Neighbors (KNN),
+Gaussian Naive Bayes,
 
+Evaluation Metrics
 The models were evaluated using:
 
-Accuracy
-Precision
-Recall
-F1-Score
+Accuracy,
+Precision,
+Recall,
+F1-Score,
 Confusion Matrix
 
 
